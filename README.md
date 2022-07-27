@@ -47,7 +47,7 @@ See demo block to understand native ad.
 Action | Adventure | Arcade | Arcade & Action | Board | Books & Reference | Brain & Puzzle | Business | Card | Cards & Casino | Casino | Casual | Comics | Communications | Education | Educational | Entertainment | Family | Finance | Health & Fitness | Libraries & Demo | Lifestyle	23. Live Wallpaper | Media & Video | Medical | Music | Music & Audio | News & Magazines | Personalization | Photography | Productivity | Puzzle | Racing | Shopping | Simulation | Social | Sports | Sports Games | Strategy | Tools | Travel & Local | Trivia | Weather | Word
 
 ## Extension specifications:
-<img src="https://github.com/jewelshkjony/AppnextAds/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony/">com.jewel.appnextads</a>(1.49 MB) \
+<img src="https://github.com/jewelshkjony/AppnextAds/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony/">com.jewel.appnextads</a>(1.36 MB) \
 <b>SDK Version:</b> 2.6.5.473\
 <b>Price:</b> 11.75 USD\
 <b>Last amendment:</b> 27 July 2022\
