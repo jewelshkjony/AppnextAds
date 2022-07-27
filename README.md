@@ -39,7 +39,7 @@ See demo block to understand native ad.
 
 <img src="https://github.com/jewelshkjony/AppnextAds/raw/main/images/native-ad.png"/>
 
-<img src="https://github.com/jewelshkjony/AppnextAds/raw/main/images/native.png"/>
+<img src="https://github.com/jewelshkjony/AppnextAds/raw/main/images/native-demo.png"/>
 
 ## Available categories
 Action | Adventure | Arcade | Arcade & Action | Board | Books & Reference | Brain & Puzzle | Business | Card | Cards & Casino | Casino | Casual | Comics | Communications | Education | Educational | Entertainment | Family | Finance | Health & Fitness | Libraries & Demo | Lifestyle	23. Live Wallpaper | Media & Video | Medical | Music | Music & Audio | News & Magazines | Personalization | Photography | Productivity | Puzzle | Racing | Shopping | Simulation | Social | Sports | Sports Games | Strategy | Tools | Travel & Local | Trivia | Weather | Word
