@@ -20,6 +20,8 @@ See demo block for unsderstanding custom interstitial ad.
 
 <img src="https://github.com/jewelshkjony/AppnextAds/raw/main/images/interstitial-ad.png"/>
 
+<img src="https://github.com/jewelshkjony/AppnextAds/raw/main/images/interstitial-demo.png"/>
+
 ## Full Screen Video Ad
 See demo block for unsderstanding custom full screen video ad.
 
